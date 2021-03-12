@@ -35,7 +35,7 @@ const ProductScreen = ({match}) => {
                     Description : {product.description}
                 </ListGroup.Item>
                 <ListGroup.Item>
-                    Address : {product.Address}
+                    Addressy : {product.Address}
                 </ListGroup.Item>
 
                 <ListGroup.Item>
